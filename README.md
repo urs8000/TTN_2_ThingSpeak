@@ -9,3 +9,5 @@ This script gets data from TheThingsNetwork via mqtt, parses the payload and pub
 start on Raspi:   node thisfile.js > thisfile.log &
 
 feel free to tell me how to autostart it clean :)
+
+View @ ThingSpeak: https://thingspeak.com/channels/137976
